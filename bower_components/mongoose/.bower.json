@@ -1,0 +1,14 @@
+{
+  "name": "mongoose",
+  "homepage": "https://github.com/LearnBoost/mongoose",
+  "version": "3.6.20",
+  "_release": "3.6.20",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.6.20",
+    "commit": "55554cf9adf4a30800941e97bb500449582b4bac"
+  },
+  "_source": "https://github.com/LearnBoost/mongoose.git",
+  "_target": "~3.6.2",
+  "_originalSource": "mongoose"
+}
